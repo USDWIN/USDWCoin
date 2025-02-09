@@ -17,7 +17,7 @@ The USDW token is supported by assets from private ledger accounts, allowing tra
 # Blockchain Support
 We plan to build USDW on a standard network of more than 10 major blockchains to expand the usage channels to cover users worldwide. Initially, The team will launch on Binance chain with Audit & KYC to ensure that the system is truly safefor users.
 
-# Contact HENGCoin
+# Contact USDWCoin
 
 🌐 Website : https://www.usddwin.com
 
