@@ -1,4 +1,4 @@
-# HENGCoin, The Token Of Web3 Technology
+# USDWCoin, The Token Of stablecoin
 
 <div align="center"><img src="https://usddwin.com/wp-content/uploads/2025/01/LOGO200x200.fw_.png" /><br />
 </div>
