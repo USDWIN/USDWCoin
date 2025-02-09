@@ -14,9 +14,6 @@ USDW token is a stable digital currency operated by Dwin Intertrade Company Limi
 # US Dollar Guaranteed
 The USDW token is supported by assets from private ledger accounts, allowing transactions in various familiar and less volatile currencies. To ensure accountability and price stability, We propose maintaining a one-to-one reserve ratio, where one (1$) USD is equivalent to one (1$) USDW token. This ratio is supported by real-world assets, with other currencies being exchanged for USD to back the USDW token, thereby stabilizing its exchange price.
 
-# Blockchain Support
-We plan to build USDW on a standard network of more than 10 major blockchains to expand the usage channels to cover users worldwide. Initially, The team will launch on Binance chain with Audit & KYC to ensure that the system is truly safefor users.
-
 # Contact USDWCoin
 
 🌐 Website : https://www.usddwin.com
