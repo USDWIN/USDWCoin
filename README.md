@@ -21,14 +21,14 @@ We plan to build USDW on a standard network of more than 10 major blockchains to
 
 🌐 Website : https://www.usddwin.com
 
-💎 Twitter : https://x.com/usddwin2024
+👉 Twitter : https://x.com/usddwin2024
 
-🚀 Facebook : https://www.facebook.com/profile.php?id=61570948176375
+🧑‍🤝‍🧑 Facebook : https://www.facebook.com/profile.php?id=61570948176375
 
-🟢 Telegram Group : http://t.me/usdwstable
+💡 Telegram Group : http://t.me/usdwstable
 
 ▶️ Youtube : https://www.youtube.com/@USDWStableCoin
 
-🌐 Smart Contract : https://bscscan.com/address/0x3AB6c736aa54917e11e58CC2Cc12e1638233B265
+💰 Smart Contract : https://bscscan.com/address/0x3AB6c736aa54917e11e58CC2Cc12e1638233B265
 
 # USDWCoin
