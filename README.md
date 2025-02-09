@@ -1,4 +1,4 @@
-# USDWCoin, Stablecoin backup $dollar 1:1 (1 USDW = 1 USDT)
+# USDWCoin, Stablecoin Backup $Dollar 1:1 (1 USDW = 1 USDT)
 
 <div align="center"><img src="https://usddwin.com/wp-content/uploads/2025/01/LOGO200x200.fw_.png" /><br />
 </div>
