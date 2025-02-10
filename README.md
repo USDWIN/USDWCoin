@@ -53,7 +53,7 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 📗 Merchants: Simplifying global payment systems.<br>
 
 # 📒 Learn More
-For detailed information on USDDWIN, please refer to the https://usddwin.com. <br>
+🔗 For detailed information on USDDWIN, please refer to the https://usddwin.com. <br>
 
 # 🌐 License
 🔗 This project is licensed under the Apache License Version 2.0.
