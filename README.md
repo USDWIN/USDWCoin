@@ -26,7 +26,7 @@ Binance Blockchain: Ensures security and efficiency for token operations.
 Web3 Integration: Supports seamless token transactions, including issuance, redemption, and storage.
 Transparency Dashboard: Publicly accessible reserve and audit reports.
 
-# Benefits
+# 💶 Benefits
 ## BenefitsFor Individuals:<br>
 🛡️ Safeguard USD in decentralized wallets.<br>
 🛡️ Avoid risks associated with holding fiat on exchanges.<br>
