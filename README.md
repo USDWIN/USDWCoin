@@ -22,7 +22,7 @@ The USDDWIN ecosystem addresses challenges in the current financial system by of
 🟢 Off-Chain Proof of Reserves: Regular audits validate the reserves, ensuring complete transparency and solvency.<br>
 
 # Technology Framework
-Optimism Blockchain: Ensures security and efficiency for token operations.
+Binance Blockchain: Ensures security and efficiency for token operations.
 Web3 Integration: Supports seamless token transactions, including issuance, redemption, and storage.
 Transparency Dashboard: Publicly accessible reserve and audit reports.
 
