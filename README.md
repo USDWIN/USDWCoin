@@ -1,7 +1,7 @@
 # USDDWIN - Fiat-Backed Digital Token on the Blockchain
 
 USDDWIN is a secure, decentralized, and fiat-backed cryptocurrency designed to facilitate seamless financial transactions. It leverages the Binance blockchain to provide a stable, fast, and reliable alternative for exchanging value in a digitally transformative financial ecosystem.
-# Company
+# 🔐 Company
 
 USDW token is a stable digital currency operated by Dwin Intertrade Company Limited. The main idea is 1 USDW = 1 USD, all assets will be collateralized in Dollar by Investment Bank, Malaysia, which must report to the relevant authorities every week. This means that the account will be audited by financial auditors every week. Therefore, USDW users can trust and believe that USDW is a truly stable digital currency for exchange according to the purpose of creating the token
 
