@@ -27,7 +27,7 @@ Web3 Integration: Supports seamless token transactions, including issuance, rede
 Transparency Dashboard: Publicly accessible reserve and audit reports.
 
 # Benefits
-#BenefitsFor Individuals:
+#BenefitsFor Individuals:<br>
 🛡️ Safeguard USD in decentralized wallets.<br>
 🛡️ Avoid risks associated with holding fiat on exchanges.<br>
 🛡️ Enable borderless transactions with reduced fees.<br>
@@ -38,9 +38,9 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 🟡 Integrate crypto-fiat solutions into existing payment workflows.<br>
 
 # For Exchanges:
-Simplify fiat management through crypto-fiat solutions.
-Enhance security using multi-signature wallets and audits.
-Improve liquidity with fiat-pegged trading pairs.
+📘 Simplify fiat management through crypto-fiat solutions.<br>
+📘 Enhance security using multi-signature wallets and audits.<br>
+📘 Improve liquidity with fiat-pegged trading pairs.<br>
 
 # Contact USDWCoin
 
