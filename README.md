@@ -1,11 +1,5 @@
 # USDDWIN - Fiat-Backed Digital Token on the Blockchain
 
-<div align="center"><img src="https://usddwin.com/wp-content/uploads/2025/01/LOGO200x200.fw_.png" /><br />
-</div>
-<div align="center">
-  <h1>
-</div>
-
 USDW, A fiat-pegged stablecoin built on the ERC-20 Standard, offering transparency, stability, and secure digital transactions with a 1:1 USD reserve. Powered by Proof of Reserves and audited weekly for reliability.
 # Company
 
