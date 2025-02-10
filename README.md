@@ -62,7 +62,7 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 
 🌐 Website : https://www.usddwin.com
 
-👉 Twitter : https://x.com/usddwin2024
+👥 Twitter : https://x.com/usddwin2024
 
 🧑‍🤝‍🧑 Facebook : https://www.facebook.com/profile.php?id=61570948176375
 
