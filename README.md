@@ -28,14 +28,14 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 
 # Benefits
 #BenefitsFor Individuals:
-🛡️ Safeguard USD in decentralized wallets.
-🛡️ Avoid risks associated with holding fiat on exchanges.
-🛡️ Enable borderless transactions with reduced fees.
+🛡️ Safeguard USD in decentralized wallets.<br>
+🛡️ Avoid risks associated with holding fiat on exchanges.<br>
+🛡️ Enable borderless transactions with reduced fees.<br>
 
 # For Merchants:
-🟡 Price products in USD without worrying about currency conversion rates.
-🟡 Reduce transaction fees and chargebacks.
-🟡 Integrate crypto-fiat solutions into existing payment workflows.
+🟡 Price products in USD without worrying about currency conversion rates.<br>
+🟡 Reduce transaction fees and chargebacks.<br>
+🟡 Integrate crypto-fiat solutions into existing payment workflows.<br>
 
 # For Exchanges:
 Simplify fiat management through crypto-fiat solutions.
