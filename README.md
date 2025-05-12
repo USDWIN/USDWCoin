@@ -70,6 +70,8 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 
 ▶️ Youtube : https://www.youtube.com/@USDWStableCoin
 
-💰 Smart Contract : https://bscscan.com/address/0x3AB6c736aa54917e11e58CC2Cc12e1638233B265
+💰 Polygon Smart Contract : https://polygonscan.com/token/0x60f7dD499956Ec8FCEA8ED80e9D7EaDe4ccdC417
+
+💰 Binance Smart Contract : https://bscscan.com/token/0xabddb950f2ae8430c5a818f8bb4ec09e3ae41253
 
 # USDWCoin
