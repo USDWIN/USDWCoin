@@ -25,7 +25,7 @@ library SafeMath {
 
 // ERC 20 Token Standard #20 Interface
 
-interface IBEP20 {
+interface IERC20 {
    
     event Transfer(address indexed from, address indexed to, uint256 value);
 
@@ -60,7 +60,7 @@ abstract contract ApproveAndCallFallBack {
 
 
 
-contract USDDWIN is IBEP20 {
+contract USDDWIN is IERC20 {
      
     event PegAsset(address indexed from, address indexed account, uint amount);
     event Burn(address indexed account, uint amount);
@@ -201,7 +201,7 @@ contract USDDWIN is IBEP20 {
     // Owner can transfer out any accidentally sent ERC20 tokens
     // ------------------------------------------------------------------------
     function transferAnyERC20Token(address tokenAddress, uint tokens) public returns (bool success) {
-        return IBEP20(tokenAddress).transfer(Admin, tokens);
+        return IERC20(tokenAddress).transfer(Admin, tokens);
     }
     
 
