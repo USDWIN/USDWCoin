@@ -76,5 +76,5 @@ Transparency Dashboard: Publicly accessible reserve and audit reports.
 
 💰 Arbitrum Smart Contract : https://arbiscan.io/token/0x08ebF126f903e76d22869b5CB8C54D1dB55e2e84
 
-💰 Base Smart Contract : #
+💰 Base Smart Contract : https://basescan.org/token/0x661461d7c1d4f7cb591016A958959bbCB36457f9
 # USDWCoin
